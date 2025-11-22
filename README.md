@@ -1,14 +1,3 @@
----
-title: Pediatric Pulmonology Chatbot
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 5.40.0
-app_file: app.py
-pinned: false
-license: mit
----
-
 # Pediatric Pulmonology Chatbot
 
 An advanced AI-powered educational tool leveraging machine learning to help understand childhood respiratory conditions through natural language processing.
