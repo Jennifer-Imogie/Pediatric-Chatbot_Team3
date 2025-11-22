@@ -658,7 +658,7 @@ with gr.Blocks(
     
     # Header
     gr.Markdown("""
-    # 🫁 Pediatric Pulmonology Assistant
+    # Pediatric Pulmonology Assistant
     
     **AI-Powered Support for Understanding Childhood Respiratory Conditions**
     
